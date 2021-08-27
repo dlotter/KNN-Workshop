@@ -1,4 +1,7 @@
 # KNN-Workshop :robot:
+
+###### This repository was moved to: https://github.com/fea-dev-usp/ai-ws01-knn
+
 Repository for the first Artificial Intelligence Workshop from FEA.dev. In this project we use the campus recruitment dataset from kaggle.
 
 **Open campus_recruitment.ipynb for code visualization.**
